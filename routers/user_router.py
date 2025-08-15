@@ -13,6 +13,10 @@ from singleton.router import router
 from repository import user_repository
 
 
+@router.get("/user/alive", status_code=status.HTTP_200_OK)
+async def alive():
+    return {"message": "Alive"}
+
 @router.post("/register", status_code=status.HTTP_201_CREATED)
 async def register(
     email: str = Form(...),
