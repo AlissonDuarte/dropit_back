@@ -1,9 +1,7 @@
-import os
 from fastapi import FastAPI
 from database import Base, sync_engine
 from routers import user_router, tag_router, post_router, notification_router
 from dotenv import load_dotenv
-from fastapi.middleware.cors import CORSMiddleware
 from fastapi.staticfiles import StaticFiles
 
 load_dotenv()
