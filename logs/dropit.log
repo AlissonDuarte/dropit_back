@@ -1,0 +1,629 @@
+2025-06-04 21:12:51,698 - dropit - INFO - User Service ->  create_user called to akaza
+2025-06-04 21:12:51,715 - dropit - INFO - User Service ->  akaza successfully registered in application
+2025-06-04 21:13:46,386 - dropit - INFO - User Service ->  create_user called to akaza
+2025-06-04 21:13:46,392 - dropit - INFO - User Service ->  akaza successfully registered in application
+2025-06-04 21:33:38,360 - dropit - INFO - User Service ->  create_user called to akaza
+2025-06-04 21:33:38,569 - dropit - INFO - User Service ->  akaza successfully registered in application
+2025-06-06 14:05:12,552 - dropit - INFO - User Service ->  create_user called to akaza
+2025-06-06 14:05:12,758 - dropit - INFO - User Service ->  akaza successfully registered in application
+2025-06-06 15:56:53,957 - dropit - INFO -  Post Service ->  User akaza are trying to create a post Testando
+2025-06-06 15:56:53,971 - dropit - INFO -  Post Service ->  User akaza successfully created a post Testando
+2025-06-06 16:39:19,171 - dropit - INFO -  Post Service ->  User akaza are trying to create a post Post de teste 
+2025-06-06 16:39:19,191 - dropit - INFO -  Post Service ->  User akaza successfully created a post Post de teste 
+2025-06-06 16:39:21,777 - dropit - INFO -  Post Service ->  User akaza are trying to create a post Post de teste 
+2025-06-06 16:39:21,795 - dropit - INFO -  Post Service ->  User akaza successfully created a post Post de teste 
+2025-06-06 16:39:22,053 - dropit - INFO -  Post Service ->  User akaza are trying to create a post Post de teste 
+2025-06-06 16:39:22,059 - dropit - INFO -  Post Service ->  User akaza successfully created a post Post de teste 
+2025-06-06 16:39:22,269 - dropit - INFO -  Post Service ->  User akaza are trying to create a post Post de teste 
+2025-06-06 16:39:22,274 - dropit - INFO -  Post Service ->  User akaza successfully created a post Post de teste 
+2025-06-06 16:39:22,455 - dropit - INFO -  Post Service ->  User akaza are trying to create a post Post de teste 
+2025-06-06 16:39:22,470 - dropit - INFO -  Post Service ->  User akaza successfully created a post Post de teste 
+2025-06-06 16:39:22,639 - dropit - INFO -  Post Service ->  User akaza are trying to create a post Post de teste 
+2025-06-06 16:39:22,654 - dropit - INFO -  Post Service ->  User akaza successfully created a post Post de teste 
+2025-06-06 16:39:22,815 - dropit - INFO -  Post Service ->  User akaza are trying to create a post Post de teste 
+2025-06-06 16:39:22,830 - dropit - INFO -  Post Service ->  User akaza successfully created a post Post de teste 
+2025-06-06 16:39:22,987 - dropit - INFO -  Post Service ->  User akaza are trying to create a post Post de teste 
+2025-06-06 16:39:22,992 - dropit - INFO -  Post Service ->  User akaza successfully created a post Post de teste 
+2025-06-06 16:39:23,155 - dropit - INFO -  Post Service ->  User akaza are trying to create a post Post de teste 
+2025-06-06 16:39:23,170 - dropit - INFO -  Post Service ->  User akaza successfully created a post Post de teste 
+2025-06-06 16:39:23,324 - dropit - INFO -  Post Service ->  User akaza are trying to create a post Post de teste 
+2025-06-06 16:39:23,339 - dropit - INFO -  Post Service ->  User akaza successfully created a post Post de teste 
+2025-06-06 16:39:23,482 - dropit - INFO -  Post Service ->  User akaza are trying to create a post Post de teste 
+2025-06-06 16:39:23,498 - dropit - INFO -  Post Service ->  User akaza successfully created a post Post de teste 
+2025-06-06 16:39:23,631 - dropit - INFO -  Post Service ->  User akaza are trying to create a post Post de teste 
+2025-06-06 16:39:23,647 - dropit - INFO -  Post Service ->  User akaza successfully created a post Post de teste 
+2025-06-06 16:39:23,763 - dropit - INFO -  Post Service ->  User akaza are trying to create a post Post de teste 
+2025-06-06 16:39:23,779 - dropit - INFO -  Post Service ->  User akaza successfully created a post Post de teste 
+2025-06-06 16:39:23,898 - dropit - INFO -  Post Service ->  User akaza are trying to create a post Post de teste 
+2025-06-06 16:39:23,913 - dropit - INFO -  Post Service ->  User akaza successfully created a post Post de teste 
+2025-06-06 16:39:24,038 - dropit - INFO -  Post Service ->  User akaza are trying to create a post Post de teste 
+2025-06-06 16:39:24,054 - dropit - INFO -  Post Service ->  User akaza successfully created a post Post de teste 
+2025-06-06 16:39:24,174 - dropit - INFO -  Post Service ->  User akaza are trying to create a post Post de teste 
+2025-06-06 16:39:24,189 - dropit - INFO -  Post Service ->  User akaza successfully created a post Post de teste 
+2025-06-06 16:39:24,314 - dropit - INFO -  Post Service ->  User akaza are trying to create a post Post de teste 
+2025-06-06 16:39:24,329 - dropit - INFO -  Post Service ->  User akaza successfully created a post Post de teste 
+2025-06-06 16:39:24,392 - dropit - INFO -  Post Service ->  User akaza are trying to create a post Post de teste 
+2025-06-06 16:39:24,408 - dropit - INFO -  Post Service ->  User akaza successfully created a post Post de teste 
+2025-06-06 16:39:24,526 - dropit - INFO -  Post Service ->  User akaza are trying to create a post Post de teste 
+2025-06-06 16:39:24,543 - dropit - INFO -  Post Service ->  User akaza successfully created a post Post de teste 
+2025-06-06 16:39:24,668 - dropit - INFO -  Post Service ->  User akaza are trying to create a post Post de teste 
+2025-06-06 16:39:24,684 - dropit - INFO -  Post Service ->  User akaza successfully created a post Post de teste 
+2025-06-06 16:39:24,754 - dropit - INFO -  Post Service ->  User akaza are trying to create a post Post de teste 
+2025-06-06 16:39:24,770 - dropit - INFO -  Post Service ->  User akaza successfully created a post Post de teste 
+2025-06-06 16:39:24,890 - dropit - INFO -  Post Service ->  User akaza are trying to create a post Post de teste 
+2025-06-06 16:39:24,905 - dropit - INFO -  Post Service ->  User akaza successfully created a post Post de teste 
+2025-06-06 16:39:25,018 - dropit - INFO -  Post Service ->  User akaza are trying to create a post Post de teste 
+2025-06-06 16:39:25,034 - dropit - INFO -  Post Service ->  User akaza successfully created a post Post de teste 
+2025-06-06 16:39:25,153 - dropit - INFO -  Post Service ->  User akaza are trying to create a post Post de teste 
+2025-06-06 16:39:25,168 - dropit - INFO -  Post Service ->  User akaza successfully created a post Post de teste 
+2025-06-06 16:39:25,286 - dropit - INFO -  Post Service ->  User akaza are trying to create a post Post de teste 
+2025-06-06 16:39:25,301 - dropit - INFO -  Post Service ->  User akaza successfully created a post Post de teste 
+2025-06-06 16:39:25,421 - dropit - INFO -  Post Service ->  User akaza are trying to create a post Post de teste 
+2025-06-06 16:39:25,437 - dropit - INFO -  Post Service ->  User akaza successfully created a post Post de teste 
+2025-06-06 16:39:25,913 - dropit - INFO -  Post Service ->  User akaza are trying to create a post Post de teste 
+2025-06-06 16:39:25,929 - dropit - INFO -  Post Service ->  User akaza successfully created a post Post de teste 
+2025-06-06 16:39:25,947 - dropit - INFO -  Post Service ->  User akaza are trying to create a post Post de teste 
+2025-06-06 16:39:25,953 - dropit - INFO -  Post Service ->  User akaza successfully created a post Post de teste 
+2025-06-06 16:39:26,017 - dropit - INFO -  Post Service ->  User akaza are trying to create a post Post de teste 
+2025-06-06 16:39:26,033 - dropit - INFO -  Post Service ->  User akaza successfully created a post Post de teste 
+2025-06-06 16:39:26,051 - dropit - INFO -  Post Service ->  User akaza are trying to create a post Post de teste 
+2025-06-06 16:39:26,057 - dropit - INFO -  Post Service ->  User akaza successfully created a post Post de teste 
+2025-06-06 16:39:26,099 - dropit - INFO -  Post Service ->  User akaza are trying to create a post Post de teste 
+2025-06-06 16:39:26,106 - dropit - INFO -  Post Service ->  User akaza successfully created a post Post de teste 
+2025-06-06 16:39:26,141 - dropit - INFO -  Post Service ->  User akaza are trying to create a post Post de teste 
+2025-06-06 16:39:26,148 - dropit - INFO -  Post Service ->  User akaza successfully created a post Post de teste 
+2025-06-06 16:39:26,152 - dropit - INFO -  Post Service ->  User akaza are trying to create a post Post de teste 
+2025-06-06 16:39:26,159 - dropit - INFO -  Post Service ->  User akaza successfully created a post Post de teste 
+2025-06-06 16:39:26,161 - dropit - INFO -  Post Service ->  User akaza are trying to create a post Post de teste 
+2025-06-06 16:39:26,167 - dropit - INFO -  Post Service ->  User akaza successfully created a post Post de teste 
+2025-06-06 16:39:26,290 - dropit - INFO -  Post Service ->  User akaza are trying to create a post Post de teste 
+2025-06-06 16:39:26,295 - dropit - INFO -  Post Service ->  User akaza successfully created a post Post de teste 
+2025-06-06 16:39:26,420 - dropit - INFO -  Post Service ->  User akaza are trying to create a post Post de teste 
+2025-06-06 16:39:26,436 - dropit - INFO -  Post Service ->  User akaza successfully created a post Post de teste 
+2025-06-06 16:39:26,563 - dropit - INFO -  Post Service ->  User akaza are trying to create a post Post de teste 
+2025-06-06 16:39:26,581 - dropit - INFO -  Post Service ->  User akaza successfully created a post Post de teste 
+2025-06-06 16:39:26,742 - dropit - INFO -  Post Service ->  User akaza are trying to create a post Post de teste 
+2025-06-06 16:39:26,759 - dropit - INFO -  Post Service ->  User akaza successfully created a post Post de teste 
+2025-06-06 16:39:26,820 - dropit - INFO -  Post Service ->  User akaza are trying to create a post Post de teste 
+2025-06-06 16:39:26,836 - dropit - INFO -  Post Service ->  User akaza successfully created a post Post de teste 
+2025-06-06 16:39:26,962 - dropit - INFO -  Post Service ->  User akaza are trying to create a post Post de teste 
+2025-06-06 16:39:26,979 - dropit - INFO -  Post Service ->  User akaza successfully created a post Post de teste 
+2025-06-06 16:39:27,107 - dropit - INFO -  Post Service ->  User akaza are trying to create a post Post de teste 
+2025-06-06 16:39:27,115 - dropit - INFO -  Post Service ->  User akaza successfully created a post Post de teste 
+2025-06-06 16:39:57,248 - dropit - INFO -  Post Service ->  User akaza are trying to create a post Post de teste 
+2025-06-06 16:39:57,253 - dropit - INFO -  Post Service ->  User akaza successfully created a post Post de teste 
+2025-06-06 16:39:57,255 - dropit - INFO -  Post Service ->  User akaza are trying to create a post Post de teste 
+2025-06-06 16:39:57,261 - dropit - INFO -  Post Service ->  User akaza successfully created a post Post de teste 
+2025-06-07 18:18:30,734 - dropit - INFO -  Post Service ->  User akaza are trying to create a post Teste tags
+2025-06-07 18:18:30,756 - dropit - INFO -  Post Service ->  User akaza successfully created a post Teste tags
+2025-06-07 18:20:18,990 - dropit - INFO -  Post Service ->  User akaza are trying to create a post categorias dois
+2025-06-07 18:20:19,006 - dropit - INFO -  Post Service ->  User akaza successfully created a post categorias dois
+2025-06-07 18:29:40,565 - dropit - INFO -  Post Service ->  User akaza are trying to create a post teste categorias 3
+2025-06-07 18:29:40,586 - dropit - INFO -  Post Service ->  User akaza successfully created a post teste categorias 3
+2025-06-07 18:30:55,609 - dropit - INFO -  Post Service ->  User akaza are trying to create a post teste categorias 4
+2025-06-07 18:30:55,628 - dropit - INFO -  Post Service ->  User akaza successfully created a post teste categorias 4
+2025-06-08 16:49:38,218 - dropit - INFO -  Post Service ->  User akaza are trying to bookmark a post Post de teste 
+2025-06-08 16:49:53,096 - dropit - INFO -  Post Service ->  User akaza are trying to bookmark a post Post de teste 
+2025-06-08 16:51:57,730 - dropit - INFO -  Post Service ->  User akaza are trying to bookmark a post Post de teste 
+2025-06-08 16:51:57,732 - dropit - INFO -  Post Service ->  Post Post de teste  found for user akaza
+2025-06-08 16:51:57,750 - dropit - INFO -  Post Service ->  Response to bookmark post Post de teste  by user akaza: True
+2025-06-08 21:50:39,060 - dropit - INFO - User Service ->  create_user called to akaza
+2025-06-08 21:50:39,259 - dropit - INFO - User Service ->  akaza successfully registered in application
+2025-06-08 21:57:33,798 - dropit - INFO -  Post Service ->  User akaza are trying to create a post TESTE
+2025-06-08 21:57:33,818 - dropit - INFO -  Post Service ->  User akaza successfully created a post TESTE
+2025-06-08 22:07:40,335 - dropit - INFO - Reaction Service ->  User: akaza reacted post: TESTE with: 
+2025-06-08 22:07:40,358 - dropit - ERROR - Reaction Service ->  Error creating reaction: 'str' object has no attribute 'value'
+2025-06-08 22:07:53,670 - dropit - INFO - Reaction Service ->  User: akaza reacted post: TESTE with: 
+2025-06-08 22:07:53,674 - dropit - ERROR - Reaction Service ->  Error creating reaction: 'like' is not among the defined enum values. Enum name: reactiontype. Possible values: LIKE, LOVE, SUPPORT, SAD
+2025-06-08 22:09:00,324 - dropit - INFO - Reaction Service ->  User: akaza reacted post: TESTE with: 
+2025-06-08 22:09:00,326 - dropit - ERROR - Reaction Service ->  Error creating reaction: 'like' is not among the defined enum values. Enum name: reactiontype. Possible values: LIKE, LOVE, SUPPORT, SAD
+2025-06-08 22:09:12,909 - dropit - INFO - Reaction Service ->  User: akaza reacted post: TESTE with: 
+2025-06-08 22:09:12,912 - dropit - ERROR - Reaction Service ->  Error creating reaction: 'like' is not among the defined enum values. Enum name: reactiontype. Possible values: LIKE, LOVE, SUPPORT, SAD
+2025-06-08 22:10:07,996 - dropit - INFO - Reaction Service ->  User: akaza reacted post: TESTE with: 
+2025-06-08 22:10:07,998 - dropit - ERROR - Reaction Service ->  Error creating reaction: 'like' is not among the defined enum values. Enum name: reactiontype. Possible values: LIKE, LOVE, SUPPORT, SAD
+2025-06-08 22:17:55,322 - dropit - INFO - Reaction Service ->  User: akaza reacted post: TESTE with: 
+2025-06-08 22:17:55,324 - dropit - ERROR - Reaction Service ->  Error creating reaction: 'like' is not among the defined enum values. Enum name: reactiontype. Possible values: LIKE, LOVE, SUPPORT, SAD
+2025-06-08 22:18:26,710 - dropit - INFO - Reaction Service ->  User: akaza reacted post: TESTE with: SUPPORT
+2025-06-08 22:18:26,712 - dropit - ERROR - Reaction Service ->  Error creating reaction: 'like' is not among the defined enum values. Enum name: reactiontype. Possible values: LIKE, LOVE, SUPPORT, SAD
+2025-06-08 22:18:59,755 - dropit - INFO - Reaction Service ->  User: akaza reacted post: TESTE with: LIKE
+2025-06-08 22:18:59,774 - dropit - ERROR - Reaction Service ->  Error creating reaction: 'like' is not among the defined enum values. Enum name: reactiontype. Possible values: LIKE, LOVE, SUPPORT, SAD
+2025-06-08 22:23:28,299 - dropit - INFO - Reaction Service ->  User: akaza reacted post: TESTE with: 0
+2025-06-08 22:23:28,302 - dropit - ERROR - Reaction Service ->  Error creating reaction: 'like' is not among the defined enum values. Enum name: reactiontype. Possible values: LIKE, LOVE, SUPPORT, SAD
+2025-06-08 22:25:37,895 - dropit - INFO - Reaction Service ->  User: akaza reacted post: TESTE with: like
+2025-06-08 22:25:37,897 - dropit - ERROR - Reaction Service ->  Error creating reaction: 'like' is not among the defined enum values. Enum name: reactiontype. Possible values: LIKE, LOVE, SUPPORT, SAD
+2025-06-08 22:26:21,298 - dropit - INFO - User Service ->  create_user called to akaza
+2025-06-08 22:26:21,501 - dropit - INFO - User Service ->  akaza successfully registered in application
+2025-06-08 22:26:39,416 - dropit - INFO -  Post Service ->  User akaza are trying to create a post Teste
+2025-06-08 22:26:39,425 - dropit - INFO -  Post Service ->  User akaza successfully created a post Teste
+2025-06-08 22:26:42,774 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Teste with: support
+2025-06-08 22:26:42,788 - dropit - ERROR - Reaction Service ->  Error creating reaction: 'str' object has no attribute 'value'
+2025-06-08 22:26:46,085 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Teste with: sad
+2025-06-08 22:26:46,087 - dropit - ERROR - Reaction Service ->  Error creating reaction: 'support' is not among the defined enum values. Enum name: reactiontype. Possible values: LIKE, LOVE, SUPPORT, SAD
+2025-06-08 22:29:51,097 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Teste with: ReactionType.SUPPORT
+2025-06-08 22:29:51,099 - dropit - ERROR - Reaction Service ->  Error creating reaction: 'support' is not among the defined enum values. Enum name: reactiontype. Possible values: LIKE, LOVE, SUPPORT, SAD
+2025-06-08 22:30:09,067 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Teste with: ReactionType.LIKE
+2025-06-08 22:30:09,069 - dropit - ERROR - Reaction Service ->  Error creating reaction: 'support' is not among the defined enum values. Enum name: reactiontype. Possible values: LIKE, LOVE, SUPPORT, SAD
+2025-06-08 22:30:52,327 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Teste with: ReactionType.LOVE
+2025-06-08 22:30:52,329 - dropit - ERROR - Reaction Service ->  Error creating reaction: 'support' is not among the defined enum values. Enum name: reactiontype. Possible values: LIKE, LOVE, SUPPORT, SAD
+2025-06-08 22:31:03,840 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Teste with: ReactionType.LIKE
+2025-06-08 22:31:03,842 - dropit - ERROR - Reaction Service ->  Error creating reaction: 'support' is not among the defined enum values. Enum name: reactiontype. Possible values: LIKE, LOVE, SUPPORT, SAD
+2025-06-08 22:31:10,513 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Teste with: ReactionType.SUPPORT
+2025-06-08 22:31:10,514 - dropit - ERROR - Reaction Service ->  Error creating reaction: 'support' is not among the defined enum values. Enum name: reactiontype. Possible values: LIKE, LOVE, SUPPORT, SAD
+2025-06-08 22:32:52,337 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Teste with: ReactionType.LOVE
+2025-06-08 22:32:52,343 - dropit - ERROR - Reaction Service ->  Error while restoring react information: 'support' is not among the defined enum values. Enum name: reactiontype. Possible values: LIKE, LOVE, SUPPORT, SAD
+2025-06-08 22:34:04,095 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Teste with: ReactionType.LIKE
+2025-06-08 22:34:04,096 - dropit - ERROR - Reaction Service ->  Error creating reaction: unsupported operand type(s) for +=: 'NoneType' and 'int'
+2025-06-08 22:34:15,708 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Teste with: ReactionType.SUPPORT
+2025-06-08 22:34:15,709 - dropit - ERROR - Reaction Service ->  Error creating reaction: unsupported operand type(s) for +=: 'NoneType' and 'int'
+2025-06-08 22:34:24,098 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Teste with: ReactionType.SAD
+2025-06-08 22:34:24,099 - dropit - ERROR - Reaction Service ->  Error creating reaction: unsupported operand type(s) for +=: 'NoneType' and 'int'
+2025-06-08 22:35:13,490 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Teste with: ReactionType.SUPPORT
+2025-06-08 22:35:13,492 - dropit - ERROR - Reaction Service ->  Error while restoring react information: 'support' is not among the defined enum values. Enum name: reactiontype. Possible values: LIKE, LOVE, SUPPORT, SAD
+2025-06-08 22:37:01,608 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Teste with: ReactionType.LOVE
+2025-06-08 22:37:01,611 - dropit - ERROR - Reaction Service ->  Error while restoring react information: 'support' is not among the defined enum values. Enum name: reactiontype. Possible values: LIKE, LOVE, SUPPORT, SAD
+2025-06-08 22:37:22,760 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Teste with: ReactionType.LIKE
+2025-06-08 22:37:22,763 - dropit - ERROR - Reaction Service ->  Error while restoring react information: 'support' is not among the defined enum values. Enum name: reactiontype. Possible values: LIKE, LOVE, SUPPORT, SAD
+2025-06-08 22:42:47,278 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Teste with: support
+2025-06-08 22:42:47,281 - dropit - ERROR - Reaction Service ->  Error while restoring react information: 'support' is not among the defined enum values. Enum name: reactiontype. Possible values: LIKE, LOVE, SUPPORT, SAD
+2025-06-08 22:42:57,767 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Teste with: LOVE
+2025-06-08 22:42:57,770 - dropit - ERROR - Reaction Service ->  Error while restoring react information: 'support' is not among the defined enum values. Enum name: reactiontype. Possible values: LIKE, LOVE, SUPPORT, SAD
+2025-06-08 22:43:05,406 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Teste with: like
+2025-06-08 22:43:05,408 - dropit - ERROR - Reaction Service ->  Error while restoring react information: 'support' is not among the defined enum values. Enum name: reactiontype. Possible values: LIKE, LOVE, SUPPORT, SAD
+2025-06-08 22:43:16,608 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Teste with: sad
+2025-06-08 22:43:16,609 - dropit - ERROR - Reaction Service ->  Error while restoring react information: 'support' is not among the defined enum values. Enum name: reactiontype. Possible values: LIKE, LOVE, SUPPORT, SAD
+2025-06-08 22:43:36,298 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Teste with: like
+2025-06-08 22:43:36,301 - dropit - ERROR - Reaction Service ->  Error while restoring react information: 'support' is not among the defined enum values. Enum name: reactiontype. Possible values: LIKE, LOVE, SUPPORT, SAD
+2025-06-08 22:43:44,091 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Teste with: LOVE
+2025-06-08 22:43:44,092 - dropit - ERROR - Reaction Service ->  Error while restoring react information: 'support' is not among the defined enum values. Enum name: reactiontype. Possible values: LIKE, LOVE, SUPPORT, SAD
+2025-06-08 22:44:32,586 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Teste with: like
+2025-06-08 22:44:32,596 - dropit - ERROR - Reaction Service ->  Error creating reaction: 'str' object has no attribute 'value'
+2025-06-08 22:45:02,743 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Teste with: sad
+2025-06-08 22:45:02,745 - dropit - ERROR - Reaction Service ->  Error while restoring react information: 'like' is not among the defined enum values. Enum name: reactiontype. Possible values: LIKE, LOVE, SUPPORT, SAD
+2025-06-08 22:57:04,991 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Teste with: LOVE
+2025-06-08 22:57:04,992 - dropit - ERROR - Reaction Service ->  Error while restoring react information: 'like' is not among the defined enum values. Enum name: reactiontype. Possible values: LIKE, LOVE, SUPPORT, SAD
+2025-06-08 22:57:18,030 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Teste with: LOVE
+2025-06-08 22:57:18,051 - dropit - ERROR - Reaction Service ->  Error creating reaction: 'str' object has no attribute 'value'
+2025-06-08 22:57:50,394 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Teste with: LOVE
+2025-06-08 22:58:27,333 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Teste with: LIKE
+2025-06-08 22:59:16,016 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Teste with: SAD
+2025-06-08 23:00:55,457 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Teste with: SUPPORT
+2025-06-08 23:01:02,801 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Teste with: SAD
+2025-06-08 23:01:07,873 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Teste with: LOVE
+2025-06-08 23:03:50,585 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Teste with: LIKE
+2025-06-09 20:24:40,889 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Teste with: SUPPORT
+2025-06-09 20:27:29,921 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Teste with: LIKE
+2025-06-09 20:27:46,879 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Teste with: LOVE
+2025-06-09 20:29:19,564 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Teste with: LIKE
+2025-06-09 20:31:13,588 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Teste with: LOVE
+2025-06-09 20:31:43,434 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Teste with: LIKE
+2025-06-09 20:32:02,140 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Teste with: LIKE
+2025-06-09 20:32:13,077 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Teste with: LIKE
+2025-06-09 20:32:41,617 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Teste with: LOVE
+2025-06-09 20:40:19,841 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Teste with: LIKE
+2025-06-09 20:45:07,920 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Teste with: SAD
+2025-06-09 20:48:27,131 - dropit - INFO -  Post Service ->  User akaza are trying to bookmark a post Teste
+2025-06-09 20:48:27,132 - dropit - INFO -  Post Service ->  Post Teste found for user akaza
+2025-06-09 20:48:27,150 - dropit - INFO -  Post Service ->  Response to bookmark post Teste by user akaza: True
+2025-06-09 20:48:34,042 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Teste with: LIKE
+2025-06-09 20:51:49,663 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Teste with: LOVE
+2025-06-09 21:10:33,136 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Teste with: LIKE
+2025-06-09 21:12:59,475 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Teste with: SUPPORT
+2025-06-09 21:13:00,817 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Teste with: LOVE
+2025-06-09 21:13:01,505 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Teste with: SAD
+2025-06-09 21:19:31,550 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Teste with: LIKE
+2025-06-09 21:19:32,229 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Teste with: LOVE
+2025-06-09 21:19:32,997 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Teste with: SUPPORT
+2025-06-09 21:19:33,452 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Teste with: SAD
+2025-06-09 21:20:33,506 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Teste with: LOVE
+2025-06-09 21:20:34,744 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Teste with: LIKE
+2025-06-09 21:20:35,968 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Teste with: SUPPORT
+2025-06-09 21:20:37,030 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Teste with: SAD
+2025-06-09 21:22:41,648 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Teste with: LIKE
+2025-06-09 21:22:42,624 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Teste with: LOVE
+2025-06-09 21:22:43,464 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Teste with: SUPPORT
+2025-06-09 21:22:44,048 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Teste with: SAD
+2025-06-09 21:24:32,729 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Teste with: LOVE
+2025-06-09 21:24:33,544 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Teste with: LIKE
+2025-06-09 21:24:34,800 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Teste with: SUPPORT
+2025-06-09 21:24:35,496 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Teste with: SAD
+2025-06-09 21:26:15,994 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Teste with: LOVE
+2025-06-09 21:26:17,601 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Teste with: LIKE
+2025-06-09 21:26:19,649 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Teste with: SUPPORT
+2025-06-09 21:28:23,133 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Teste with: SAD
+2025-06-09 21:28:24,708 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Teste with: SUPPORT
+2025-06-09 21:28:26,245 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Teste with: LIKE
+2025-06-09 21:28:27,965 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Teste with: LOVE
+2025-06-09 21:28:33,669 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Teste with: LIKE
+2025-06-09 21:29:51,141 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Teste with: SUPPORT
+2025-06-09 21:29:52,044 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Teste with: SAD
+2025-06-09 21:30:15,704 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Teste with: LOVE
+2025-06-09 21:30:16,991 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Teste with: LIKE
+2025-06-09 21:30:18,471 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Teste with: SAD
+2025-06-09 21:30:18,736 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Teste with: SUPPORT
+2025-06-09 21:30:48,342 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Teste with: LIKE
+2025-06-09 21:30:49,355 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Teste with: LOVE
+2025-06-09 21:30:50,763 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Teste with: SAD
+2025-06-09 21:30:52,091 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Teste with: SUPPORT
+2025-06-09 21:30:53,339 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Teste with: LIKE
+2025-06-09 21:31:04,205 - dropit - INFO -  Post Service ->  User akaza are trying to bookmark a post Teste
+2025-06-09 21:31:04,206 - dropit - INFO -  Post Service ->  Post Teste found for user akaza
+2025-06-09 21:31:04,222 - dropit - INFO -  Post Service ->  Response to bookmark post Teste by user akaza: False
+2025-06-09 21:31:07,756 - dropit - INFO -  Post Service ->  User akaza are trying to bookmark a post Teste
+2025-06-09 21:31:07,757 - dropit - INFO -  Post Service ->  Post Teste found for user akaza
+2025-06-09 21:31:07,765 - dropit - INFO -  Post Service ->  Response to bookmark post Teste by user akaza: True
+2025-06-09 21:31:09,405 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Teste with: SAD
+2025-06-09 21:31:09,949 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Teste with: SUPPORT
+2025-06-09 21:31:10,485 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Teste with: LIKE
+2025-06-09 21:31:10,956 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Teste with: LOVE
+2025-06-11 01:32:18,346 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Teste with: LOVE
+2025-06-11 01:32:20,446 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Teste with: LIKE
+2025-06-11 01:32:23,351 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Teste with: SUPPORT
+2025-06-11 01:32:24,742 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Teste with: SAD
+2025-06-11 01:33:51,556 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Teste with: LOVE
+2025-06-11 22:21:53,881 - dropit - INFO -  Post Service ->  User akaza are trying to bookmark a post Teste
+2025-06-11 22:21:53,883 - dropit - INFO -  Post Service ->  Post Teste found for user akaza
+2025-06-11 22:21:53,890 - dropit - INFO -  Post Service ->  Response to bookmark post Teste by user akaza: False
+2025-06-11 22:22:11,759 - dropit - INFO -  Post Service ->  User akaza are trying to bookmark a post Teste
+2025-06-11 22:22:11,760 - dropit - INFO -  Post Service ->  Post Teste found for user akaza
+2025-06-11 22:22:11,768 - dropit - INFO -  Post Service ->  Response to bookmark post Teste by user akaza: True
+2025-06-11 22:22:14,767 - dropit - INFO -  Post Service ->  User akaza are trying to bookmark a post Teste
+2025-06-11 22:22:14,769 - dropit - INFO -  Post Service ->  Post Teste found for user akaza
+2025-06-11 22:22:14,783 - dropit - INFO -  Post Service ->  Response to bookmark post Teste by user akaza: False
+2025-06-11 22:48:42,796 - dropit - INFO -  Post Service ->  User akaza are trying to bookmark a post Teste
+2025-06-11 22:48:42,810 - dropit - INFO -  Post Service ->  Post Teste found for user akaza
+2025-06-11 22:48:42,821 - dropit - INFO -  Post Service ->  Response to bookmark post Teste by user akaza: True
+2025-06-11 22:48:46,001 - dropit - INFO -  Post Service ->  User akaza are trying to bookmark a post Teste
+2025-06-11 22:48:46,002 - dropit - INFO -  Post Service ->  Post Teste found for user akaza
+2025-06-11 22:48:46,019 - dropit - INFO -  Post Service ->  Response to bookmark post Teste by user akaza: False
+2025-06-11 22:48:50,171 - dropit - INFO -  Post Service ->  User akaza are trying to bookmark a post Teste
+2025-06-11 22:48:50,173 - dropit - INFO -  Post Service ->  Post Teste found for user akaza
+2025-06-11 22:48:50,193 - dropit - INFO -  Post Service ->  Response to bookmark post Teste by user akaza: True
+2025-06-11 22:55:05,632 - dropit - INFO -  Post Service ->  User akaza are trying to bookmark a post Teste
+2025-06-11 22:55:05,633 - dropit - INFO -  Post Service ->  Post Teste found for user akaza
+2025-06-11 22:55:05,650 - dropit - INFO -  Post Service ->  Response to bookmark post Teste by user akaza: False
+2025-06-11 22:56:11,336 - dropit - INFO -  Post Service ->  User akaza are trying to bookmark a post Teste
+2025-06-11 22:56:11,337 - dropit - INFO -  Post Service ->  Post Teste found for user akaza
+2025-06-11 22:56:11,353 - dropit - INFO -  Post Service ->  Response to bookmark post Teste by user akaza: True
+2025-06-11 22:56:19,017 - dropit - INFO -  Post Service ->  User akaza are trying to bookmark a post Teste
+2025-06-11 22:56:19,018 - dropit - INFO -  Post Service ->  Post Teste found for user akaza
+2025-06-11 22:56:19,033 - dropit - INFO -  Post Service ->  Response to bookmark post Teste by user akaza: False
+2025-06-11 22:57:10,599 - dropit - INFO -  Post Service ->  User akaza are trying to bookmark a post Teste
+2025-06-11 22:57:10,600 - dropit - INFO -  Post Service ->  Post Teste found for user akaza
+2025-06-11 22:57:10,611 - dropit - INFO -  Post Service ->  Response to bookmark post Teste by user akaza: True
+2025-06-11 22:57:11,326 - dropit - INFO -  Post Service ->  User akaza are trying to bookmark a post Teste
+2025-06-11 22:57:11,327 - dropit - INFO -  Post Service ->  Post Teste found for user akaza
+2025-06-11 22:57:11,344 - dropit - INFO -  Post Service ->  Response to bookmark post Teste by user akaza: False
+2025-06-11 22:58:47,540 - dropit - INFO -  Post Service ->  User akaza are trying to bookmark a post Teste
+2025-06-11 22:58:47,541 - dropit - INFO -  Post Service ->  Post Teste found for user akaza
+2025-06-11 22:58:47,555 - dropit - INFO -  Post Service ->  Response to bookmark post Teste by user akaza: True
+2025-06-11 23:01:32,686 - dropit - INFO -  Post Service ->  User akaza are trying to bookmark a post Teste
+2025-06-11 23:01:32,687 - dropit - INFO -  Post Service ->  Post Teste found for user akaza
+2025-06-11 23:01:32,702 - dropit - INFO -  Post Service ->  Response to bookmark post Teste by user akaza: False
+2025-06-11 23:01:34,814 - dropit - INFO -  Post Service ->  User akaza are trying to bookmark a post Teste
+2025-06-11 23:01:34,815 - dropit - INFO -  Post Service ->  Post Teste found for user akaza
+2025-06-11 23:01:34,831 - dropit - INFO -  Post Service ->  Response to bookmark post Teste by user akaza: True
+2025-06-11 23:02:27,293 - dropit - INFO -  Post Service ->  User akaza are trying to bookmark a post Teste
+2025-06-11 23:02:27,294 - dropit - INFO -  Post Service ->  Post Teste found for user akaza
+2025-06-11 23:02:27,303 - dropit - INFO -  Post Service ->  Response to bookmark post Teste by user akaza: False
+2025-06-11 23:02:28,269 - dropit - INFO -  Post Service ->  User akaza are trying to bookmark a post Teste
+2025-06-11 23:02:28,270 - dropit - INFO -  Post Service ->  Post Teste found for user akaza
+2025-06-11 23:02:28,289 - dropit - INFO -  Post Service ->  Response to bookmark post Teste by user akaza: True
+2025-06-13 19:59:23,229 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Dolor placeat architecto vitae necessitatibus quam. with: SAD
+2025-06-13 19:59:31,482 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Dolor placeat architecto vitae necessitatibus quam. with: SUPPORT
+2025-06-13 19:59:32,466 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Dolor placeat architecto vitae necessitatibus quam. with: LIKE
+2025-06-13 19:59:33,018 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Dolor placeat architecto vitae necessitatibus quam. with: LOVE
+2025-06-13 19:59:56,150 - dropit - INFO -  Post Service ->  User akaza are trying to bookmark a post Odio asperiores distinctio iusto delectus dolor minus.
+2025-06-13 19:59:56,152 - dropit - INFO -  Post Service ->  Post Odio asperiores distinctio iusto delectus dolor minus. found for user akaza
+2025-06-13 19:59:56,160 - dropit - INFO -  Post Service ->  Response to bookmark post Odio asperiores distinctio iusto delectus dolor minus. by user akaza: True
+2025-06-13 19:59:56,990 - dropit - INFO -  Post Service ->  User akaza are trying to bookmark a post Laborum quo nam expedita consequuntur sed consequuntur officia.
+2025-06-13 19:59:56,991 - dropit - INFO -  Post Service ->  Post Laborum quo nam expedita consequuntur sed consequuntur officia. found for user akaza
+2025-06-13 19:59:57,007 - dropit - INFO -  Post Service ->  Response to bookmark post Laborum quo nam expedita consequuntur sed consequuntur officia. by user akaza: True
+2025-06-13 20:01:50,235 - dropit - INFO -  Post Service ->  User akaza are trying to bookmark a post Odio asperiores distinctio iusto delectus dolor minus.
+2025-06-13 20:01:50,236 - dropit - INFO -  Post Service ->  Post Odio asperiores distinctio iusto delectus dolor minus. found for user akaza
+2025-06-13 20:01:50,252 - dropit - INFO -  Post Service ->  Response to bookmark post Odio asperiores distinctio iusto delectus dolor minus. by user akaza: False
+2025-06-13 20:30:04,867 - dropit - INFO - User Service ->  create_user called to akaza2
+2025-06-13 20:30:05,057 - dropit - INFO - User Service ->  akaza2 successfully registered in application
+2025-06-15 17:23:33,615 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Ex laboriosam nobis quidem architecto quibusdam. with: SUPPORT
+2025-06-15 17:23:38,872 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Id reiciendis provident eligendi dolorum. with: LOVE
+2025-06-15 17:23:43,717 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Id reiciendis provident eligendi dolorum. with: SUPPORT
+2025-06-15 17:23:49,207 - dropit - INFO -  Post Service ->  User akaza are trying to bookmark a post Ex laboriosam nobis quidem architecto quibusdam.
+2025-06-15 17:23:49,209 - dropit - INFO -  Post Service ->  Post Ex laboriosam nobis quidem architecto quibusdam. found for user akaza
+2025-06-15 17:23:49,224 - dropit - INFO -  Post Service ->  Response to bookmark post Ex laboriosam nobis quidem architecto quibusdam. by user akaza: True
+2025-06-15 17:23:55,305 - dropit - INFO -  Post Service ->  User akaza are trying to bookmark a post Ex laboriosam nobis quidem architecto quibusdam.
+2025-06-15 17:23:55,306 - dropit - INFO -  Post Service ->  Post Ex laboriosam nobis quidem architecto quibusdam. found for user akaza
+2025-06-15 17:23:55,322 - dropit - INFO -  Post Service ->  Response to bookmark post Ex laboriosam nobis quidem architecto quibusdam. by user akaza: False
+2025-06-15 17:23:56,916 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Ex laboriosam nobis quidem architecto quibusdam. with: LOVE
+2025-06-15 17:24:07,033 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Id reiciendis provident eligendi dolorum. with: LOVE
+2025-06-15 17:24:08,240 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Id reiciendis provident eligendi dolorum. with: LIKE
+2025-06-15 17:24:09,122 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Id reiciendis provident eligendi dolorum. with: SUPPORT
+2025-06-15 17:24:09,969 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Id reiciendis provident eligendi dolorum. with: SAD
+2025-06-15 17:24:11,147 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Id reiciendis provident eligendi dolorum. with: SUPPORT
+2025-06-15 17:24:11,969 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Id reiciendis provident eligendi dolorum. with: LIKE
+2025-06-15 17:24:12,691 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Id reiciendis provident eligendi dolorum. with: LOVE
+2025-06-15 17:25:48,254 - dropit - INFO -  Post Service ->  User akaza are trying to create a post Jujuba
+2025-06-15 17:25:48,263 - dropit - INFO -  Post Service ->  User akaza successfully created a post Jujuba
+2025-06-16 19:52:34,139 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Incidunt cupiditate a quam cumque eos vitae quisquam. with: LOVE
+2025-06-16 19:52:36,887 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Incidunt cupiditate a quam cumque eos vitae quisquam. with: LOVE
+2025-06-16 19:52:37,703 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Incidunt cupiditate a quam cumque eos vitae quisquam. with: LIKE
+2025-06-16 19:52:39,591 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Incidunt cupiditate a quam cumque eos vitae quisquam. with: SAD
+2025-06-16 19:52:41,128 - dropit - INFO -  Post Service ->  User akaza are trying to bookmark a post Incidunt cupiditate a quam cumque eos vitae quisquam.
+2025-06-16 19:52:41,130 - dropit - INFO -  Post Service ->  Post Incidunt cupiditate a quam cumque eos vitae quisquam. found for user akaza
+2025-06-16 19:52:41,148 - dropit - INFO -  Post Service ->  Response to bookmark post Incidunt cupiditate a quam cumque eos vitae quisquam. by user akaza: True
+2025-06-16 19:52:43,463 - dropit - INFO -  Post Service ->  User akaza are trying to bookmark a post Incidunt cupiditate a quam cumque eos vitae quisquam.
+2025-06-16 19:52:43,465 - dropit - INFO -  Post Service ->  Post Incidunt cupiditate a quam cumque eos vitae quisquam. found for user akaza
+2025-06-16 19:52:43,480 - dropit - INFO -  Post Service ->  Response to bookmark post Incidunt cupiditate a quam cumque eos vitae quisquam. by user akaza: False
+2025-06-16 19:52:55,317 - dropit - INFO -  Post Service ->  User akaza are trying to create a post ldld
+2025-06-16 19:52:55,338 - dropit - INFO -  Post Service ->  User akaza successfully created a post ldld
+2025-06-16 19:53:22,904 - dropit - INFO -  Post Service ->  User akaza are trying to bookmark a post Id reiciendis provident eligendi dolorum.
+2025-06-16 19:53:22,905 - dropit - INFO -  Post Service ->  Post Id reiciendis provident eligendi dolorum. found for user akaza
+2025-06-16 19:53:22,910 - dropit - INFO -  Post Service ->  Response to bookmark post Id reiciendis provident eligendi dolorum. by user akaza: True
+2025-06-16 19:53:23,932 - dropit - INFO -  Post Service ->  User akaza are trying to bookmark a post Officia adipisci quaerat unde dolores.
+2025-06-16 19:53:23,933 - dropit - INFO -  Post Service ->  Post Officia adipisci quaerat unde dolores. found for user akaza
+2025-06-16 19:53:23,943 - dropit - INFO -  Post Service ->  Response to bookmark post Officia adipisci quaerat unde dolores. by user akaza: True
+2025-06-16 19:53:27,653 - dropit - INFO -  Post Service ->  User akaza are trying to bookmark a post Ex laboriosam nobis quidem architecto quibusdam.
+2025-06-16 19:53:27,654 - dropit - INFO -  Post Service ->  Post Ex laboriosam nobis quidem architecto quibusdam. found for user akaza
+2025-06-16 19:53:27,670 - dropit - INFO -  Post Service ->  Response to bookmark post Ex laboriosam nobis quidem architecto quibusdam. by user akaza: True
+2025-06-16 19:53:37,405 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Ex laboriosam nobis quidem architecto quibusdam. with: SAD
+2025-06-21 21:28:47,217 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Iure quisquam similique saepe. with: LOVE
+2025-06-21 21:29:06,353 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Jujuba with: LOVE
+2025-06-21 21:29:06,355 - dropit - ERROR - Reaction Service ->  Error creating reaction: unsupported operand type(s) for +=: 'NoneType' and 'int'
+2025-06-21 21:29:17,387 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Jujuba with: LIKE
+2025-06-21 21:29:17,389 - dropit - ERROR - Reaction Service ->  Error creating reaction: unsupported operand type(s) for +=: 'NoneType' and 'int'
+2025-06-21 21:45:10,955 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Veritatis aut laborum tempore. with: LOVE
+2025-06-21 21:45:14,679 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Veritatis aut laborum tempore. with: LOVE
+2025-06-21 22:17:48,027 - dropit - INFO -  Post Service ->  User akaza are trying to bookmark a post Iure quisquam similique saepe.
+2025-06-21 22:17:48,028 - dropit - INFO -  Post Service ->  Post Iure quisquam similique saepe. found for user akaza
+2025-06-21 22:17:48,037 - dropit - INFO -  Post Service ->  Response to bookmark post Iure quisquam similique saepe. by user akaza: True
+2025-06-21 22:19:25,549 - dropit - INFO -  Post Service ->  User akaza are trying to bookmark a post Iure quisquam similique saepe.
+2025-06-21 22:19:25,550 - dropit - INFO -  Post Service ->  Post Iure quisquam similique saepe. found for user akaza
+2025-06-21 22:19:25,565 - dropit - INFO -  Post Service ->  Response to bookmark post Iure quisquam similique saepe. by user akaza: False
+2025-06-21 22:20:28,157 - dropit - INFO -  Post Service ->  User akaza are trying to bookmark a post Jujuba
+2025-06-21 22:20:28,158 - dropit - INFO -  Post Service ->  Post Jujuba found for user akaza
+2025-06-21 22:20:28,175 - dropit - INFO -  Post Service ->  Response to bookmark post Jujuba by user akaza: True
+2025-06-21 22:20:33,175 - dropit - INFO -  Post Service ->  User akaza are trying to bookmark a post Jujuba
+2025-06-21 22:20:33,177 - dropit - INFO -  Post Service ->  Post Jujuba found for user akaza
+2025-06-21 22:20:33,191 - dropit - INFO -  Post Service ->  Response to bookmark post Jujuba by user akaza: False
+2025-06-21 22:20:58,697 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Jujuba with: SAD
+2025-06-21 22:20:58,699 - dropit - ERROR - Reaction Service ->  Error creating reaction: unsupported operand type(s) for +=: 'NoneType' and 'int'
+2025-06-21 22:21:04,824 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Jujuba with: SUPPORT
+2025-06-21 22:21:04,826 - dropit - ERROR - Reaction Service ->  Error creating reaction: unsupported operand type(s) for +=: 'NoneType' and 'int'
+2025-06-21 22:21:21,075 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Jujuba with: LOVE
+2025-06-21 22:21:21,078 - dropit - ERROR - Reaction Service ->  Error creating reaction: unsupported operand type(s) for +=: 'NoneType' and 'int'
+2025-06-21 22:21:22,698 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Jujuba with: LOVE
+2025-06-21 22:21:22,700 - dropit - ERROR - Reaction Service ->  Error creating reaction: unsupported operand type(s) for +=: 'NoneType' and 'int'
+2025-06-21 22:23:37,667 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Jujuba with: LOVE
+2025-06-21 22:23:37,672 - dropit - ERROR - Reaction Service ->  Error creating reaction: unsupported operand type(s) for +=: 'NoneType' and 'int'
+2025-06-21 22:24:27,176 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Jujuba with: LIKE
+2025-06-21 22:24:27,180 - dropit - ERROR - Reaction Service ->  Error creating reaction: unsupported operand type(s) for +=: 'NoneType' and 'int'
+2025-06-21 22:25:07,454 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Jujuba with: SUPPORT
+2025-06-21 22:25:07,459 - dropit - ERROR - Reaction Service ->  Error creating reaction: unsupported operand type(s) for +=: 'NoneType' and 'int'
+2025-06-21 22:26:01,838 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Jujuba with: LOVE
+2025-06-21 22:26:01,844 - dropit - ERROR - Reaction Service ->  Error creating reaction: 'PostReactionCount' object has no attribute 'title'
+2025-06-21 22:26:25,759 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Jujuba with: LIKE
+2025-06-21 22:26:25,764 - dropit - ERROR - Reaction Service ->  Error creating reaction: 'UUID' object has no attribute 'title'
+2025-06-21 22:26:32,363 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Jujuba with: SUPPORT
+2025-06-21 22:26:32,369 - dropit - ERROR - Reaction Service ->  Error creating reaction: unsupported operand type(s) for +=: 'NoneType' and 'int'
+2025-06-21 22:27:28,070 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Jujuba with: LOVE
+2025-06-21 22:27:28,078 - dropit - ERROR - Reaction Service ->  Error creating reaction: unsupported operand type(s) for +=: 'NoneType' and 'int'
+2025-06-21 22:28:54,391 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Jujuba with: SAD
+2025-06-21 22:29:01,584 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Jujuba with: SAD
+2025-06-21 22:29:04,041 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Jujuba with: SUPPORT
+2025-06-21 22:55:04,991 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Ipsum facilis ullam at tempora laborum consectetur. with: SAD
+2025-06-21 22:55:13,292 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Nesciunt ab nulla delectus harum. with: SAD
+2025-06-21 22:55:16,654 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Nesciunt ab nulla delectus harum. with: SAD
+2025-06-21 22:55:21,190 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Nesciunt ab nulla delectus harum. with: SAD
+2025-06-21 22:55:22,878 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Nesciunt ab nulla delectus harum. with: SUPPORT
+2025-06-21 22:55:26,758 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Nesciunt ab nulla delectus harum. with: SUPPORT
+2025-06-21 22:56:30,775 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Velit corrupti odio. with: SAD
+2025-06-21 22:56:35,583 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Velit corrupti odio. with: LIKE
+2025-06-21 22:56:41,112 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Velit corrupti odio. with: LIKE
+2025-06-21 22:56:44,968 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Velit corrupti odio. with: SUPPORT
+2025-06-21 23:01:14,781 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Tenetur dignissimos dolores voluptate officia autem tempore. with: LOVE
+2025-06-21 23:03:22,282 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Velit corrupti odio. with: LOVE
+2025-06-21 23:12:15,980 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Velit corrupti odio. with: SAD
+2025-06-23 12:42:49,723 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Facere voluptatem iure itaque rem consequatur porro. with: SAD
+2025-06-23 12:55:53,028 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Sed perspiciatis cum quis. with: SAD
+2025-06-23 12:56:02,546 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Facere voluptatem iure itaque rem consequatur porro. with: SUPPORT
+2025-06-23 13:01:33,332 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Sed perspiciatis cum quis. with: LIKE
+2025-06-23 13:01:34,235 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Sed perspiciatis cum quis. with: SUPPORT
+2025-06-23 13:01:34,882 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Sed perspiciatis cum quis. with: SAD
+2025-06-23 13:01:36,028 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Sed perspiciatis cum quis. with: SUPPORT
+2025-06-23 13:01:36,570 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Sed perspiciatis cum quis. with: LIKE
+2025-06-23 13:01:37,178 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Sed perspiciatis cum quis. with: LOVE
+2025-06-23 13:01:38,154 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Sed perspiciatis cum quis. with: SAD
+2025-06-23 13:01:48,221 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Sed perspiciatis cum quis. with: LIKE
+2025-06-23 13:05:41,960 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Sed perspiciatis cum quis. with: SUPPORT
+2025-06-23 13:07:03,131 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Sed perspiciatis cum quis. with: LIKE
+2025-06-23 13:08:40,822 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Sed perspiciatis cum quis. with: SAD
+2025-06-23 13:09:34,493 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Facere voluptatem iure itaque rem consequatur porro. with: SAD
+2025-06-23 13:10:17,353 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Sed perspiciatis cum quis. with: LOVE
+2025-06-23 13:13:43,788 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Placeat ullam eligendi fuga. with: SUPPORT
+2025-06-23 13:15:34,929 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Velit corrupti odio. with: LOVE
+2025-06-23 13:41:09,308 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Placeat ullam eligendi fuga. with: LIKE
+2025-06-23 13:41:13,594 - dropit - INFO - Reaction Service ->  User: akaza reacted post: Placeat ullam eligendi fuga. with: LOVE
+2025-06-23 13:41:19,619 - dropit - INFO -  Post Service ->  User akaza are trying to bookmark a post Placeat ullam eligendi fuga.
+2025-06-23 13:41:19,621 - dropit - INFO -  Post Service ->  Post Placeat ullam eligendi fuga. found for user akaza
+2025-06-23 13:41:19,630 - dropit - INFO -  Post Service ->  Response to bookmark post Placeat ullam eligendi fuga. by user akaza: True
+2025-06-23 13:49:03,953 - dropit - INFO -  Post Service ->  User akaza are trying to bookmark a post Velit corrupti odio.
+2025-06-23 13:49:03,955 - dropit - INFO -  Post Service ->  Post Velit corrupti odio. found for user akaza
+2025-06-23 13:49:03,965 - dropit - INFO -  Post Service ->  Response to bookmark post Velit corrupti odio. by user akaza: True
+2025-06-23 13:49:05,065 - dropit - INFO -  Post Service ->  User akaza are trying to bookmark a post Ipsum quos illo distinctio.
+2025-06-23 13:49:05,066 - dropit - INFO -  Post Service ->  Post Ipsum quos illo distinctio. found for user akaza
+2025-06-23 13:49:05,072 - dropit - INFO -  Post Service ->  Response to bookmark post Ipsum quos illo distinctio. by user akaza: True
+2025-06-27 22:58:09,842 - dropit - INFO -  Post Repository ->  User pireseduarda are trying to bookmark a post Velit cum iure.
+2025-06-27 22:58:09,844 - dropit - INFO -  Post Repository ->  Post Velit cum iure. found for user pireseduarda
+2025-06-27 22:58:09,852 - dropit - INFO -  Post Repository ->  Response to bookmark post Velit cum iure. by user pireseduarda: True
+2025-06-27 22:58:35,142 - dropit - INFO -  Post Repository ->  User pireseduarda are trying to bookmark a post Velit cum iure.
+2025-06-27 22:58:35,145 - dropit - INFO -  Post Repository ->  Post Velit cum iure. found for user pireseduarda
+2025-06-27 22:58:35,162 - dropit - INFO -  Post Repository ->  Response to bookmark post Velit cum iure. by user pireseduarda: False
+2025-06-27 22:58:40,197 - dropit - INFO -  Post Repository ->  User pireseduarda are trying to bookmark a post Velit cum iure.
+2025-06-27 22:58:40,198 - dropit - INFO -  Post Repository ->  Post Velit cum iure. found for user pireseduarda
+2025-06-27 22:58:40,215 - dropit - INFO -  Post Repository ->  Response to bookmark post Velit cum iure. by user pireseduarda: True
+2025-06-27 22:58:49,075 - dropit - INFO -  Post Repository ->  User pireseduarda are trying to bookmark a post Velit cum iure.
+2025-06-27 22:58:49,076 - dropit - INFO -  Post Repository ->  Post Velit cum iure. found for user pireseduarda
+2025-06-27 22:58:49,081 - dropit - INFO -  Post Repository ->  Response to bookmark post Velit cum iure. by user pireseduarda: False
+2025-06-27 22:58:50,406 - dropit - INFO -  Post Repository ->  User pireseduarda are trying to bookmark a post Velit cum iure.
+2025-06-27 22:58:50,407 - dropit - INFO -  Post Repository ->  Post Velit cum iure. found for user pireseduarda
+2025-06-27 22:58:50,423 - dropit - INFO -  Post Repository ->  Response to bookmark post Velit cum iure. by user pireseduarda: True
+2025-06-27 23:00:54,195 - dropit - INFO -  Post Repository ->  User pireseduarda are trying to bookmark a post Vero natus nobis numquam ullam magni.
+2025-06-27 23:00:54,197 - dropit - INFO -  Post Repository ->  Post Vero natus nobis numquam ullam magni. found for user pireseduarda
+2025-06-27 23:00:54,210 - dropit - INFO -  Post Repository ->  Response to bookmark post Vero natus nobis numquam ullam magni. by user pireseduarda: True
+2025-06-27 23:01:34,933 - dropit - INFO -  Post Repository ->  User pireseduarda are trying to bookmark a post Vero natus nobis numquam ullam magni.
+2025-06-27 23:01:34,935 - dropit - INFO -  Post Repository ->  Post Vero natus nobis numquam ullam magni. found for user pireseduarda
+2025-06-27 23:01:34,941 - dropit - INFO -  Post Repository ->  Response to bookmark post Vero natus nobis numquam ullam magni. by user pireseduarda: False
+2025-06-27 23:01:37,139 - dropit - INFO -  Post Repository ->  User pireseduarda are trying to bookmark a post Velit cum iure.
+2025-06-27 23:01:37,140 - dropit - INFO -  Post Repository ->  Post Velit cum iure. found for user pireseduarda
+2025-06-27 23:01:37,156 - dropit - INFO -  Post Repository ->  Response to bookmark post Velit cum iure. by user pireseduarda: False
+2025-06-27 23:01:41,091 - dropit - INFO -  Post Repository ->  User pireseduarda are trying to bookmark a post Velit cum iure.
+2025-06-27 23:01:41,092 - dropit - INFO -  Post Repository ->  Post Velit cum iure. found for user pireseduarda
+2025-06-27 23:01:41,099 - dropit - INFO -  Post Repository ->  Response to bookmark post Velit cum iure. by user pireseduarda: True
+2025-06-27 23:02:15,481 - dropit - INFO -  Post Repository ->  User pireseduarda are trying to bookmark a post Vero natus nobis numquam ullam magni.
+2025-06-27 23:02:15,483 - dropit - INFO -  Post Repository ->  Post Vero natus nobis numquam ullam magni. found for user pireseduarda
+2025-06-27 23:02:15,502 - dropit - INFO -  Post Repository ->  Response to bookmark post Vero natus nobis numquam ullam magni. by user pireseduarda: True
+2025-06-27 23:02:29,441 - dropit - INFO -  Post Repository ->  User pireseduarda are trying to bookmark a post Velit cum iure.
+2025-06-27 23:02:29,442 - dropit - INFO -  Post Repository ->  Post Velit cum iure. found for user pireseduarda
+2025-06-27 23:02:29,454 - dropit - INFO -  Post Repository ->  Response to bookmark post Velit cum iure. by user pireseduarda: False
+2025-06-27 23:02:35,818 - dropit - INFO -  Post Repository ->  User pireseduarda are trying to bookmark a post Velit cum iure.
+2025-06-27 23:02:35,819 - dropit - INFO -  Post Repository ->  Post Velit cum iure. found for user pireseduarda
+2025-06-27 23:02:35,824 - dropit - INFO -  Post Repository ->  Response to bookmark post Velit cum iure. by user pireseduarda: True
+2025-06-27 23:03:23,985 - dropit - INFO -  Post Repository ->  User pireseduarda are trying to bookmark a post Velit cum iure.
+2025-06-27 23:03:23,987 - dropit - INFO -  Post Repository ->  Post Velit cum iure. found for user pireseduarda
+2025-06-27 23:03:24,003 - dropit - INFO -  Post Repository ->  Response to bookmark post Velit cum iure. by user pireseduarda: False
+2025-06-27 23:03:26,998 - dropit - INFO -  Post Repository ->  User pireseduarda are trying to bookmark a post Velit cum iure.
+2025-06-27 23:03:27,000 - dropit - INFO -  Post Repository ->  Post Velit cum iure. found for user pireseduarda
+2025-06-27 23:03:27,017 - dropit - INFO -  Post Repository ->  Response to bookmark post Velit cum iure. by user pireseduarda: True
+2025-06-27 23:05:08,727 - dropit - INFO -  Post Repository ->  User pireseduarda are trying to bookmark a post Velit cum iure.
+2025-06-27 23:05:08,728 - dropit - INFO -  Post Repository ->  Post Velit cum iure. found for user pireseduarda
+2025-06-27 23:05:08,734 - dropit - INFO -  Post Repository ->  Response to bookmark post Velit cum iure. by user pireseduarda: False
+2025-06-27 23:05:09,549 - dropit - INFO -  Post Repository ->  User pireseduarda are trying to bookmark a post Velit cum iure.
+2025-06-27 23:05:09,550 - dropit - INFO -  Post Repository ->  Post Velit cum iure. found for user pireseduarda
+2025-06-27 23:05:09,568 - dropit - INFO -  Post Repository ->  Response to bookmark post Velit cum iure. by user pireseduarda: True
+2025-06-27 23:05:38,234 - dropit - INFO -  Post Repository ->  User pireseduarda are trying to bookmark a post Velit cum iure.
+2025-06-27 23:05:38,236 - dropit - INFO -  Post Repository ->  Post Velit cum iure. found for user pireseduarda
+2025-06-27 23:05:38,242 - dropit - INFO -  Post Repository ->  Response to bookmark post Velit cum iure. by user pireseduarda: False
+2025-06-27 23:05:39,033 - dropit - INFO -  Post Repository ->  User pireseduarda are trying to bookmark a post Velit cum iure.
+2025-06-27 23:05:39,034 - dropit - INFO -  Post Repository ->  Post Velit cum iure. found for user pireseduarda
+2025-06-27 23:05:39,051 - dropit - INFO -  Post Repository ->  Response to bookmark post Velit cum iure. by user pireseduarda: True
+2025-06-27 23:05:39,052 - dropit - ERROR - Notification Service ->  Error while trying to create notification: 'NotificationCreateRequest' object has no attribute 'user_uuid'
+2025-06-27 23:06:01,541 - dropit - INFO -  Post Repository ->  User pireseduarda are trying to bookmark a post Velit cum iure.
+2025-06-27 23:06:01,543 - dropit - INFO -  Post Repository ->  Post Velit cum iure. found for user pireseduarda
+2025-06-27 23:06:01,549 - dropit - INFO -  Post Repository ->  Response to bookmark post Velit cum iure. by user pireseduarda: False
+2025-06-27 23:06:01,939 - dropit - INFO -  Post Repository ->  User pireseduarda are trying to bookmark a post Velit cum iure.
+2025-06-27 23:06:01,940 - dropit - INFO -  Post Repository ->  Post Velit cum iure. found for user pireseduarda
+2025-06-27 23:06:01,947 - dropit - INFO -  Post Repository ->  Response to bookmark post Velit cum iure. by user pireseduarda: True
+2025-06-27 23:06:01,948 - dropit - ERROR - Notification Service ->  Error while trying to create notification: 'NotificationCreateRequest' object has no attribute 'user_uuid'
+2025-06-27 23:07:09,278 - dropit - INFO -  Post Repository ->  User pireseduarda are trying to bookmark a post Velit cum iure.
+2025-06-27 23:07:09,280 - dropit - INFO -  Post Repository ->  Post Velit cum iure. found for user pireseduarda
+2025-06-27 23:07:09,298 - dropit - INFO -  Post Repository ->  Response to bookmark post Velit cum iure. by user pireseduarda: False
+2025-06-27 23:07:10,323 - dropit - INFO -  Post Repository ->  User pireseduarda are trying to bookmark a post Velit cum iure.
+2025-06-27 23:07:10,324 - dropit - INFO -  Post Repository ->  Post Velit cum iure. found for user pireseduarda
+2025-06-27 23:07:10,342 - dropit - INFO -  Post Repository ->  Response to bookmark post Velit cum iure. by user pireseduarda: True
+2025-06-27 23:07:10,342 - dropit - INFO - Notification Repository ->  User 24d3fd03-6007-4451-8af7-4a5ec9825a14 are trying to create a notification Nova mensagem
+2025-06-27 23:07:10,345 - dropit - ERROR - Notification Service ->  Error while trying to create notification: 'NotificationCreateRequest' object has no attribute 'message'
+2025-06-27 23:07:51,835 - dropit - INFO -  Post Repository ->  User pireseduarda are trying to bookmark a post Velit cum iure.
+2025-06-27 23:07:51,837 - dropit - INFO -  Post Repository ->  Post Velit cum iure. found for user pireseduarda
+2025-06-27 23:07:51,852 - dropit - INFO -  Post Repository ->  Response to bookmark post Velit cum iure. by user pireseduarda: False
+2025-06-27 23:07:53,417 - dropit - INFO -  Post Repository ->  User pireseduarda are trying to bookmark a post Velit cum iure.
+2025-06-27 23:07:53,418 - dropit - INFO -  Post Repository ->  Post Velit cum iure. found for user pireseduarda
+2025-06-27 23:07:53,436 - dropit - INFO -  Post Repository ->  Response to bookmark post Velit cum iure. by user pireseduarda: True
+2025-06-27 23:07:53,437 - dropit - INFO - Notification Repository ->  User 24d3fd03-6007-4451-8af7-4a5ec9825a14 are trying to create a notification Nova mensagem
+2025-06-27 23:07:53,447 - dropit - ERROR - Notification Service ->  Error while trying to create notification: 'post' is not among the defined enum values. Enum name: notificationtype. Possible values: ATT, NEW
+2025-06-27 23:08:54,264 - dropit - INFO -  Post Repository ->  User pireseduarda are trying to bookmark a post Velit cum iure.
+2025-06-27 23:08:54,266 - dropit - INFO -  Post Repository ->  Post Velit cum iure. found for user pireseduarda
+2025-06-27 23:08:54,282 - dropit - INFO -  Post Repository ->  Response to bookmark post Velit cum iure. by user pireseduarda: False
+2025-06-27 23:08:54,872 - dropit - INFO -  Post Repository ->  User pireseduarda are trying to bookmark a post Velit cum iure.
+2025-06-27 23:08:54,873 - dropit - INFO -  Post Repository ->  Post Velit cum iure. found for user pireseduarda
+2025-06-27 23:08:54,880 - dropit - INFO -  Post Repository ->  Response to bookmark post Velit cum iure. by user pireseduarda: True
+2025-06-27 23:08:54,880 - dropit - INFO - Notification Repository ->  User 24d3fd03-6007-4451-8af7-4a5ec9825a14 are trying to create a notification Nova mensagem
+2025-06-27 23:08:54,892 - dropit - ERROR - Notification Service ->  Error while trying to create notification: 'att' is not among the defined enum values. Enum name: notificationtype. Possible values: ATT, NEW
+2025-06-27 23:10:00,836 - dropit - INFO -  Post Repository ->  User pireseduarda are trying to bookmark a post Velit cum iure.
+2025-06-27 23:10:00,839 - dropit - INFO -  Post Repository ->  Post Velit cum iure. found for user pireseduarda
+2025-06-27 23:10:00,846 - dropit - INFO -  Post Repository ->  Response to bookmark post Velit cum iure. by user pireseduarda: False
+2025-06-27 23:10:01,576 - dropit - INFO -  Post Repository ->  User pireseduarda are trying to bookmark a post Velit cum iure.
+2025-06-27 23:10:01,577 - dropit - INFO -  Post Repository ->  Post Velit cum iure. found for user pireseduarda
+2025-06-27 23:10:01,596 - dropit - INFO -  Post Repository ->  Response to bookmark post Velit cum iure. by user pireseduarda: True
+2025-06-27 23:10:13,820 - dropit - INFO -  Post Repository ->  User pireseduarda are trying to bookmark a post Velit cum iure.
+2025-06-27 23:10:13,822 - dropit - INFO -  Post Repository ->  Post Velit cum iure. found for user pireseduarda
+2025-06-27 23:10:13,838 - dropit - INFO -  Post Repository ->  Response to bookmark post Velit cum iure. by user pireseduarda: False
+2025-06-27 23:10:14,513 - dropit - INFO -  Post Repository ->  User pireseduarda are trying to bookmark a post Velit cum iure.
+2025-06-27 23:10:14,514 - dropit - INFO -  Post Repository ->  Post Velit cum iure. found for user pireseduarda
+2025-06-27 23:10:14,534 - dropit - INFO -  Post Repository ->  Response to bookmark post Velit cum iure. by user pireseduarda: True
+2025-06-27 23:10:14,534 - dropit - INFO - Notification Repository ->  User 24d3fd03-6007-4451-8af7-4a5ec9825a14 are trying to create a notification Nova mensagem
+2025-06-27 23:10:14,543 - dropit - INFO - Notification Repository ->  User 24d3fd03-6007-4451-8af7-4a5ec9825a14 successfully created a notification Nova mensagem
+2025-06-27 23:11:49,039 - dropit - INFO -  Post Repository ->  User pireseduarda are trying to bookmark a post Velit cum iure.
+2025-06-27 23:11:49,040 - dropit - INFO -  Post Repository ->  Post Velit cum iure. found for user pireseduarda
+2025-06-27 23:11:49,044 - dropit - INFO -  Post Repository ->  Response to bookmark post Velit cum iure. by user pireseduarda: False
+2025-06-27 23:11:50,966 - dropit - INFO -  Post Repository ->  User pireseduarda are trying to bookmark a post Velit cum iure.
+2025-06-27 23:11:50,968 - dropit - INFO -  Post Repository ->  Post Velit cum iure. found for user pireseduarda
+2025-06-27 23:11:50,985 - dropit - INFO -  Post Repository ->  Response to bookmark post Velit cum iure. by user pireseduarda: True
+2025-06-27 23:11:50,985 - dropit - INFO - Notification Repository ->  User 24d3fd03-6007-4451-8af7-4a5ec9825a14 are trying to create a notification Nova mensagem
+2025-06-27 23:11:50,993 - dropit - INFO - Notification Repository ->  User 24d3fd03-6007-4451-8af7-4a5ec9825a14 successfully created a notification Nova mensagem
+2025-06-27 23:21:50,697 - dropit - INFO -  Post Repository ->  User pireseduarda are trying to bookmark a post Quos sequi laudantium et magni atque eos.
+2025-06-27 23:21:50,699 - dropit - INFO -  Post Repository ->  Post Quos sequi laudantium et magni atque eos. found for user pireseduarda
+2025-06-27 23:21:50,717 - dropit - INFO -  Post Repository ->  Response to bookmark post Quos sequi laudantium et magni atque eos. by user pireseduarda: True
+2025-06-27 23:21:50,717 - dropit - INFO - Notification Repository ->  User 24d3fd03-6007-4451-8af7-4a5ec9825a14 are trying to create a notification Nova mensagem
+2025-06-27 23:21:50,721 - dropit - ERROR - Notification Service ->  Error while trying to create notification: (sqlite3.IntegrityError) NOT NULL constraint failed: notifications.icon
+[SQL: INSERT INTO notifications (uuid, user_generator, user_receiver, post_id, title, message, read, notification_type, created_at, updated_at, deleted_at) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)]
+[parameters: ('8e8ac6cf05424d96be508172edee6fc1', '24d3fd03600744518af74a5ec9825a14', '81d876107fe04a769a49ffe6eb7863a5', 'ebb8f276d7a24443a16a4b58c1c12324', 'Nova mensagem', 'O usuário pireseduarda salvou o seu post Quos sequi laudantium et magni atque eos. como favorito', 0, 'ATT', '2025-06-28 02:21:50.720849', '2025-06-28 02:21:50.720851', None)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-06-27 23:29:04,055 - dropit - INFO -  Post Repository ->  User pireseduarda are trying to bookmark a post Vero natus nobis numquam ullam magni.
+2025-06-27 23:29:04,058 - dropit - INFO -  Post Repository ->  Post Vero natus nobis numquam ullam magni. found for user pireseduarda
+2025-06-27 23:29:04,066 - dropit - INFO -  Post Repository ->  Response to bookmark post Vero natus nobis numquam ullam magni. by user pireseduarda: False
+2025-06-27 23:29:04,715 - dropit - INFO -  Post Repository ->  User pireseduarda are trying to bookmark a post Quos sequi laudantium et magni atque eos.
+2025-06-27 23:29:04,716 - dropit - INFO -  Post Repository ->  Post Quos sequi laudantium et magni atque eos. found for user pireseduarda
+2025-06-27 23:29:04,720 - dropit - INFO -  Post Repository ->  Response to bookmark post Quos sequi laudantium et magni atque eos. by user pireseduarda: False
+2025-06-27 23:29:05,925 - dropit - INFO -  Post Repository ->  User pireseduarda are trying to bookmark a post Velit cum iure.
+2025-06-27 23:29:05,926 - dropit - INFO -  Post Repository ->  Post Velit cum iure. found for user pireseduarda
+2025-06-27 23:29:05,940 - dropit - INFO -  Post Repository ->  Response to bookmark post Velit cum iure. by user pireseduarda: False
+2025-06-27 23:29:13,091 - dropit - INFO -  Post Repository ->  User pireseduarda are trying to bookmark a post Quos sequi laudantium et magni atque eos.
+2025-06-27 23:29:13,092 - dropit - INFO -  Post Repository ->  Post Quos sequi laudantium et magni atque eos. found for user pireseduarda
+2025-06-27 23:29:13,109 - dropit - INFO -  Post Repository ->  Response to bookmark post Quos sequi laudantium et magni atque eos. by user pireseduarda: True
+2025-06-27 23:29:13,109 - dropit - INFO - Notification Repository ->  User 24d3fd03-6007-4451-8af7-4a5ec9825a14 are trying to create a notification Nova mensagem
+2025-06-27 23:29:13,114 - dropit - ERROR - Notification Service ->  Error while trying to create notification: (sqlite3.IntegrityError) NOT NULL constraint failed: notifications.icon
+[SQL: INSERT INTO notifications (uuid, user_generator, user_receiver, post_id, title, message, read, notification_type, created_at, updated_at, deleted_at) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)]
+[parameters: ('11718272bef04fc6a2a3cd06064d2749', '24d3fd03600744518af74a5ec9825a14', '81d876107fe04a769a49ffe6eb7863a5', 'ebb8f276d7a24443a16a4b58c1c12324', 'Nova mensagem', 'O usuário pireseduarda salvou o seu post Quos sequi laudantium et magni atque eos. como favorito', 0, 'ATT', '2025-06-28 02:29:13.112791', '2025-06-28 02:29:13.112793', None)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-06-27 23:29:22,853 - dropit - INFO -  Post Repository ->  User pireseduarda are trying to bookmark a post Vero natus nobis numquam ullam magni.
+2025-06-27 23:29:22,854 - dropit - INFO -  Post Repository ->  Post Vero natus nobis numquam ullam magni. found for user pireseduarda
+2025-06-27 23:29:22,859 - dropit - INFO -  Post Repository ->  Response to bookmark post Vero natus nobis numquam ullam magni. by user pireseduarda: True
+2025-06-27 23:29:22,859 - dropit - INFO - Notification Repository ->  User 24d3fd03-6007-4451-8af7-4a5ec9825a14 are trying to create a notification Nova mensagem
+2025-06-27 23:29:22,863 - dropit - ERROR - Notification Service ->  Error while trying to create notification: (sqlite3.IntegrityError) NOT NULL constraint failed: notifications.icon
+[SQL: INSERT INTO notifications (uuid, user_generator, user_receiver, post_id, title, message, read, notification_type, created_at, updated_at, deleted_at) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)]
+[parameters: ('c600915f7d4748748027336685d6112b', '24d3fd03600744518af74a5ec9825a14', '81d876107fe04a769a49ffe6eb7863a5', 'ba09f3b4b83b48f2be5270e85265c333', 'Nova mensagem', 'O usuário pireseduarda salvou o seu post Vero natus nobis numquam ullam magni. como favorito', 0, 'ATT', '2025-06-28 02:29:22.862490', '2025-06-28 02:29:22.862492', None)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-06-27 23:30:46,981 - dropit - INFO -  Post Repository ->  User pireseduarda are trying to bookmark a post Vero natus nobis numquam ullam magni.
+2025-06-27 23:30:46,983 - dropit - INFO -  Post Repository ->  Post Vero natus nobis numquam ullam magni. found for user pireseduarda
+2025-06-27 23:30:46,996 - dropit - INFO -  Post Repository ->  Response to bookmark post Vero natus nobis numquam ullam magni. by user pireseduarda: False
+2025-06-27 23:30:47,765 - dropit - INFO -  Post Repository ->  User pireseduarda are trying to bookmark a post Quos sequi laudantium et magni atque eos.
+2025-06-27 23:30:47,766 - dropit - INFO -  Post Repository ->  Post Quos sequi laudantium et magni atque eos. found for user pireseduarda
+2025-06-27 23:30:47,771 - dropit - INFO -  Post Repository ->  Response to bookmark post Quos sequi laudantium et magni atque eos. by user pireseduarda: False
+2025-06-27 23:30:50,525 - dropit - INFO -  Post Repository ->  User pireseduarda are trying to bookmark a post Velit cum iure.
+2025-06-27 23:30:50,526 - dropit - INFO -  Post Repository ->  Post Velit cum iure. found for user pireseduarda
+2025-06-27 23:30:50,542 - dropit - INFO -  Post Repository ->  Response to bookmark post Velit cum iure. by user pireseduarda: True
+2025-06-27 23:30:50,542 - dropit - INFO - Notification Repository ->  User 24d3fd03-6007-4451-8af7-4a5ec9825a14 are trying to create a notification Nova mensagem
+2025-06-27 23:30:50,551 - dropit - INFO - Notification Repository ->  User 24d3fd03-6007-4451-8af7-4a5ec9825a14 successfully created a notification Nova mensagem
+2025-06-27 23:30:57,519 - dropit - INFO -  Post Repository ->  User pireseduarda are trying to bookmark a post Vero natus nobis numquam ullam magni.
+2025-06-27 23:30:57,520 - dropit - INFO -  Post Repository ->  Post Vero natus nobis numquam ullam magni. found for user pireseduarda
+2025-06-27 23:30:57,526 - dropit - INFO -  Post Repository ->  Response to bookmark post Vero natus nobis numquam ullam magni. by user pireseduarda: True
+2025-06-27 23:30:57,526 - dropit - INFO - Notification Repository ->  User 24d3fd03-6007-4451-8af7-4a5ec9825a14 are trying to create a notification Nova mensagem
+2025-06-27 23:30:57,537 - dropit - INFO - Notification Repository ->  User 24d3fd03-6007-4451-8af7-4a5ec9825a14 successfully created a notification Nova mensagem
+2025-06-27 23:31:43,772 - dropit - INFO -  Post Repository ->  User pireseduarda are trying to bookmark a post Quos sequi laudantium et magni atque eos.
+2025-06-27 23:31:43,773 - dropit - INFO -  Post Repository ->  Post Quos sequi laudantium et magni atque eos. found for user pireseduarda
+2025-06-27 23:31:43,778 - dropit - INFO -  Post Repository ->  Response to bookmark post Quos sequi laudantium et magni atque eos. by user pireseduarda: True
+2025-06-27 23:31:43,778 - dropit - INFO - Notification Repository ->  User 24d3fd03-6007-4451-8af7-4a5ec9825a14 are trying to create a notification Nova mensagem
+2025-06-27 23:31:43,786 - dropit - INFO - Notification Repository ->  User 24d3fd03-6007-4451-8af7-4a5ec9825a14 successfully created a notification Nova mensagem
+2025-06-27 23:58:16,510 - dropit - INFO -  Post Repository ->  User pireseduarda are trying to bookmark a post Velit cum iure.
+2025-06-27 23:58:16,513 - dropit - INFO -  Post Repository ->  Post Velit cum iure. found for user pireseduarda
+2025-06-27 23:58:16,519 - dropit - INFO -  Post Repository ->  Response to bookmark post Velit cum iure. by user pireseduarda: False
+2025-06-27 23:58:17,511 - dropit - INFO -  Post Repository ->  User pireseduarda are trying to bookmark a post Vero natus nobis numquam ullam magni.
+2025-06-27 23:58:17,512 - dropit - INFO -  Post Repository ->  Post Vero natus nobis numquam ullam magni. found for user pireseduarda
+2025-06-27 23:58:17,527 - dropit - INFO -  Post Repository ->  Response to bookmark post Vero natus nobis numquam ullam magni. by user pireseduarda: False
+2025-06-27 23:58:19,644 - dropit - INFO -  Post Repository ->  User pireseduarda are trying to bookmark a post Velit cum iure.
+2025-06-27 23:58:19,645 - dropit - INFO -  Post Repository ->  Post Velit cum iure. found for user pireseduarda
+2025-06-27 23:58:19,663 - dropit - INFO -  Post Repository ->  Response to bookmark post Velit cum iure. by user pireseduarda: True
+2025-06-27 23:58:19,663 - dropit - INFO - Notification Repository ->  User 24d3fd03-6007-4451-8af7-4a5ec9825a14 are trying to create a notification Nova mensagem
+2025-06-27 23:58:19,671 - dropit - INFO - Notification Repository ->  User 24d3fd03-6007-4451-8af7-4a5ec9825a14 successfully created a notification Nova mensagem
+2025-06-27 23:59:45,209 - dropit - INFO - Reaction Repository ->  User: pireseduarda reacted post: Velit cum iure. with: SAD
+2025-06-28 00:00:29,673 - dropit - INFO - Notification Repository ->  User 24d3fd03-6007-4451-8af7-4a5ec9825a14 are trying to create a notification Nova mensagem
+2025-06-28 00:00:29,695 - dropit - INFO - Notification Repository ->  User 24d3fd03-6007-4451-8af7-4a5ec9825a14 successfully created a notification Nova mensagem
+2025-06-28 00:00:29,695 - dropit - INFO - Reaction Repository ->  User: pireseduarda reacted post: Velit cum iure. with: LOVE
