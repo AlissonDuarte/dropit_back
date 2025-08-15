@@ -627,3 +627,7 @@
 2025-06-28 00:00:29,673 - dropit - INFO - Notification Repository ->  User 24d3fd03-6007-4451-8af7-4a5ec9825a14 are trying to create a notification Nova mensagem
 2025-06-28 00:00:29,695 - dropit - INFO - Notification Repository ->  User 24d3fd03-6007-4451-8af7-4a5ec9825a14 successfully created a notification Nova mensagem
 2025-06-28 00:00:29,695 - dropit - INFO - Reaction Repository ->  User: pireseduarda reacted post: Velit cum iure. with: LOVE
+2025-08-15 19:55:49,439 - dropit - INFO - User Repository ->  create_user called to akaza213
+2025-08-15 19:55:49,634 - dropit - INFO - User Repository ->  akaza213 successfully registered in application
+2025-08-15 19:56:51,824 - dropit - INFO - User Repository ->  create_user called to akaza2132
+2025-08-15 19:56:52,011 - dropit - INFO - User Repository ->  akaza2132 successfully registered in application
