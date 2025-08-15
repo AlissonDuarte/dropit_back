@@ -22,7 +22,7 @@ def create_user(db: Session, user: schemas.UserCreateRequest):
         username=user.username,
         email=user.email, 
         password=encrypted_password,
-        photo=user.photo_url,
+        photo_url=user.photo_url,
         bio=user.bio
     )
     db.add(db_user)
