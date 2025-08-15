@@ -180,9 +180,9 @@ def main():
         print("Criando dados fictícios...")
         
         # Cria usuários
-        users = create_fake_users()
-        db.add_all(users)
-        db.commit()
+        # users = create_fake_users()
+        # db.add_all(users)
+        # db.commit()
         
         # Cria tags
         tags = create_fake_tags()
@@ -190,19 +190,19 @@ def main():
         db.commit()
         
         # Cria posts
-        posts = create_fake_posts(users, tags)
-        db.add_all(posts)
-        db.commit()
+        # posts = create_fake_posts(users, tags)
+        # db.add_all(posts)
+        # db.commit()
         
-        # Cria reações
-        reactions = create_fake_reactions(users, posts)
-        db.add_all(reactions)
-        db.commit()
+        # # Cria reações
+        # reactions = create_fake_reactions(users, posts)
+        # db.add_all(reactions)
+        # db.commit()
         
-        # # Cria bookmarks
-        bookmarks = create_fake_bookmarks(users, posts)
-        db.add_all(bookmarks)
-        db.commit()
+        # # # Cria bookmarks
+        # bookmarks = create_fake_bookmarks(users, posts)
+        # db.add_all(bookmarks)
+        # db.commit()
         
         print("Seed concluído com sucesso!")
         
